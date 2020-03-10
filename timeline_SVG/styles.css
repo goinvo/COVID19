@@ -1,0 +1,71 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  letter-spacing: -1.2px;
+}
+svg {
+  font-size: 27px;
+}
+text[role=heading] {
+  font-weight: 500;
+  letter-spacing: -1.5px;
+}
+#circle-outlines {
+  transform: translate(1447px, 747px);
+}
+#inner {
+  animation: turn 5s infinite forwards linear;
+}
+#outer {
+  animation: turn 8s infinite reverse linear;
+}
+@keyframes turn {
+  from { transform: rotate(0); }
+  to { transform: rotate(360deg); }
+}
+.future {
+  font-weight: 700;
+  letter-spacing: -1.5px;
+  fill: #553c8d;
+}
+circle.future {
+  fill: none;
+  stroke: #333333;
+  stroke-width: 2px;
+  stroke-dasharray: 2 4;
+  stroke-linecap: round;
+  animation: blinking 500ms infinite alternate ease-in-out;
+}
+@keyframes blinking {
+ from { opacity: 0; }
+ to { opacity: 1; }
+}
+@media (max-width: 768px) {
+  .a, circle.b, g.b {
+    transform: translate(-120px);
+  }
+  .c, circle.d, g.d {
+    transform: translate(-1021.7px, 328px);
+  }
+  .e, .f, circle.g, g.g {
+    transform: translate(-120px, 328px);
+  }
+  circle.h, g.h {
+    transform: translate(-1021.9px, 709.9px);
+  }
+  .i {
+    transform: translate(-120px, 708px);
+  }
+  circle.j, g.j {
+    transform: translate(-140px, 708px);
+  }
+  .k, circle.l, g.l {
+    transform: translate(-1043.5px, 1122px);
+  }
+  #circle-outlines {
+    transform: translate(403.5px, 1869px);
+  }
+  .m {
+    transform: translate(-120px, 1082px);
+  }
+}
