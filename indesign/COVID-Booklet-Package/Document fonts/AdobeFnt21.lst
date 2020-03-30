@@ -1,0 +1,151 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/juhan/Dropbox (We Create Goodness)/Invo_Projects/Invo/Coronavirus/Deliverables/Booklet/COVID-Booklet-Package/Document fonts/AdobeFnt21.lst
+FileLength:3678
+FileModTime:607276523
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+MenuName:Montserrat
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Bold
+WritingScript:Roman
+OutlineFileName:/Users/juhan/Dropbox (We Create Goodness)/Invo_Projects/Invo/Coronavirus/Deliverables/Booklet/COVID-Booklet-Package/Document fonts/Montserrat-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:261588
+FileModTime:345459600
+NameArray:0,Mac,4,Montserrat Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-BoldItalic
+FamilyName:Montserrat
+StyleName:Bold Italic
+MenuName:Montserrat
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Montserrat Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/juhan/Dropbox (We Create Goodness)/Invo_Projects/Invo/Coronavirus/Deliverables/Booklet/COVID-Booklet-Package/Document fonts/Montserrat-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:266748
+FileModTime:345459600
+NameArray:0,Mac,4,Montserrat Bold Italic
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Italic
+FamilyName:Montserrat
+StyleName:Italic
+MenuName:Montserrat
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Montserrat Italic
+WritingScript:Roman
+OutlineFileName:/Users/juhan/Dropbox (We Create Goodness)/Invo_Projects/Invo/Coronavirus/Deliverables/Booklet/COVID-Booklet-Package/Document fonts/Montserrat-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:266628
+FileModTime:345459600
+NameArray:0,Mac,4,Montserrat Italic
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Light
+FamilyName:Montserrat
+StyleName:Light
+MenuName:Montserrat Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Light
+WritingScript:Roman
+OutlineFileName:/Users/juhan/Dropbox (We Create Goodness)/Invo_Projects/Invo/Coronavirus/Deliverables/Booklet/COVID-Booklet-Package/Document fonts/Montserrat-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:259416
+FileModTime:345459600
+NameArray:0,Mac,4,Montserrat Light
+NameArray:0,Win,1,Montserrat Light
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+MenuName:Montserrat
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Regular
+WritingScript:Roman
+OutlineFileName:/Users/juhan/Dropbox (We Create Goodness)/Invo_Projects/Invo/Coronavirus/Deliverables/Booklet/COVID-Booklet-Package/Document fonts/Montserrat-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:263192
+FileModTime:345459600
+NameArray:0,Mac,4,Montserrat Regular
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Montserrat SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/juhan/Dropbox (We Create Goodness)/Invo_Projects/Invo/Coronavirus/Deliverables/Booklet/COVID-Booklet-Package/Document fonts/Montserrat-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:260936
+FileModTime:345459600
+NameArray:0,Mac,4,Montserrat SemiBold
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
